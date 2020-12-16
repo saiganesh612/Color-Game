@@ -7,3 +7,5 @@ This will contain a code related to a game which is mostly likely a guessing gam
 * There will be exactly one color that matches with the given rgb color .
 * If player selects incorrect color it will disappear.
 * If player selects correct color all the reamining colors will change to matched rgb color.
+
+* The game is published at https://saiganesh612.github.io/Color-Game/
