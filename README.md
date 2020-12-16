@@ -8,4 +8,4 @@ This will contain a code related to a game which is mostly likely a guessing gam
 * If player selects incorrect color it will disappear.
 * If player selects correct color all the reamining colors will change to matched rgb color.
 
-* The game is published at https://saiganesh612.github.io/Color-Game/
+The game is published at https://saiganesh612.github.io/Color-Game/ may a try on this game.
